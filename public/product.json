@@ -1,0 +1,156 @@
+[
+    {
+      "id": 1,
+      "category": "Laptops",
+      "name": "Dell XPS 13",
+      "description": "13-inch laptop with an InfinityEdge display and powerful performance.",
+      "price": 999,
+      "stock": 20,
+      "inStock": true,
+      "rating": 4.5,
+      "specification": [
+        "13.4-inch FHD+ display",
+        "Intel Core i7 processor",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "imageUrl": "https://www.comforttechnology.com.bd/wp-content/uploads/2024/04/Dell-XPS-13-9380-Core-i5-8th-gen-8gb.jpg"
+    },
+    {
+      "id": 2,
+      "category": "Laptops",
+      "name": "HP Spectre x360",
+      "description": "Convertible laptop with a 4K display and long battery life.",
+      "price": 1200,
+      "stock": 15,
+      "inStock": true,
+      "rating": 4.7,
+      "specification": [
+        "13.3-inch 4K OLED display",
+        "Intel Core i7 processor",
+        "16GB RAM",
+        "1TB SSD"
+      ],
+      "imageUrl": "https://techstore.co.in/cdn/shop/articles/Hp-Spectre-07.jpg?v=1487510918"
+    },
+    {
+      "id": 3,
+      "category": "Laptops",
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "description": "Ultra-light business laptop with a durable build and fast performance.",
+      "price": 1400,
+      "stock": 18,
+      "inStock": true,
+      "rating": 4.6,
+      "specification": [
+        "14-inch FHD display",
+        "Intel Core i7 processor",
+        "16GB RAM",
+        "1TB SSD"
+      ],
+      "imageUrl": "https://sm.pcmag.com/pcmag_me/photo/default/02px9ydzfu4pbdkkqbx9jdk-21_k2xg.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Phones",
+      "name": "Samsung Galaxy S21",
+      "description": "Flagship smartphone with an advanced camera and AMOLED display.",
+      "price": 799,
+      "stock": 30,
+      "inStock": true,
+      "rating": 4.8,
+      "specification": [
+        "6.2-inch AMOLED display",
+        "64MP triple camera",
+        "4000mAh battery",
+        "128GB storage"
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/-pggzXiN7Fs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAglfMBtKL1mV7-951d3cSFA5hn4w"
+    },
+    {
+      "id": 6,
+      "category": "Phones",
+      "name": "Google Pixel 6",
+      "description": "Smartphone with excellent camera features and Google’s latest software.",
+      "price": 699,
+      "stock": 25,
+      "inStock": true,
+      "rating": 4.5,
+      "specification": [
+        "6.4-inch OLED display",
+        "50MP dual camera",
+        "4614mAh battery",
+        "128GB storage"
+      ],
+      "imageUrl": "https://m-cdn.phonearena.com/images/review/5269-wide-two_1200/Google-Pixel-6-review-best-features.jpg"
+    },
+    {
+      "id": 9,
+      "category": "Accessories",
+      "name": "Wireless Earbuds",
+      "description": "Compact and high-quality wireless earbuds with noise-cancellation.",
+      "price": 99,
+      "stock": 50,
+      "inStock": true,
+      "rating": 4.4,
+      "specification": [
+        "Noise-cancellation",
+        "Up to 6 hours battery life",
+        "Water-resistant",
+        "Bluetooth 5.0"
+      ],
+      "imageUrl": "https://cdn.thewirecutter.com/wp-content/media/2022/11/wirelessearbuds-2048px-8831.jpg"
+    },
+    {
+      "id": 11,
+      "category": "Smart Watches",
+      "name": "Fitbit Versa 3",
+      "description": "Fitness-focused smartwatch with heart rate tracking and GPS.",
+      "price": 229,
+      "stock": 18,
+      "inStock": true,
+      "rating": 4.5,
+      "specification": [
+        "Heart rate tracking",
+        "Built-in GPS",
+        "Water-resistant",
+        "6-day battery life"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/I/61ZXwnqqOuS.jpg"
+    },
+    {
+      "id": 13,
+      "category": "MacBook",
+      "name": "MacBook Air M1",
+      "description": "Lightweight laptop with Apple’s M1 chip and long battery life.",
+      "price": 999,
+      "stock": 12,
+      "inStock": true,
+      "rating": 4.9,
+      "specification": [
+        "13.3-inch Retina display",
+        "Apple M1 chip",
+        "8GB RAM",
+        "256GB SSD"
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/EuXnHTZJdl4/maxresdefault.jpg"
+    },
+    {
+      "id": 14,
+      "category": "Iphone",
+      "name": "iPhone 13 Pro",
+      "description": "Latest iPhone with advanced cameras and ProMotion display.",
+      "price": 999,
+      "stock": 25,
+      "inStock": true,
+      "rating": 4.8,
+      "specification": [
+        "6.1-inch OLED display",
+        "A15 Bionic chip",
+        "128GB storage",
+        "12MP triple camera"
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/PJEKya5cIoE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC9EElZtPiweIx4fdcURssW-e8Oeg"
+    }
+  ]
+  
